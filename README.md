@@ -8,7 +8,14 @@
 - RM98370 - Ricardo Brito Ponticelli Prieto
 - RM94679 - Vinicios Becker Prediger
 
+👤 **Responsaveis pelo projeto**
 
-## 👤 Responsaveis pelo projeto ##
+- RM98370 - Ricardo Brito Ponticelli Prieto
 
+## 🎬Link do vídeo ##
 
+## 🛠️Como rodar a aplicação ##
+
+## 📋Diagramas ##
+
+## 📄Documentação da API ##
