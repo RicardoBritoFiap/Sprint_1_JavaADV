@@ -15,5 +15,7 @@ Esse repositório
 ## 🎬Link do vídeo ##
 
 ## 📊Diagrama de Classe/Modelo Lógico ##
+<img scr="./markdown/Diagrama de Classes.png">
+<img scr="./markdown/Diagrama Modelo Lógico.png">
 
 ## 📋Endpoints da API ##
