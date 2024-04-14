@@ -1,5 +1,5 @@
 # 🚀SynthAI API #
-
+Esse repositório 
 👥 **Integrantes do Grupo:**
 
 - RM98163 - Júlia Martins Santana Figueiredo
@@ -14,8 +14,6 @@
 
 ## 🎬Link do vídeo ##
 
-## 🛠️Como rodar a aplicação ##
+## 📊Diagrama de Classe/Modelo Lógico ##
 
-## 📋Diagramas ##
-
-## 📄Documentação da API ##
+## 📋Endpoints da API ##
