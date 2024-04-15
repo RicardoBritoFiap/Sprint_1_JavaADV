@@ -16,7 +16,6 @@ Esse repositório
 
 ## 📊Diagrama de Classe/Modelo Lógico 
 <img src="./markdown/diagrama de classes.png">
-
 <img src="./markdown/diagrama modelo logico.png">
 
 ## 📋Endpoints da API ##
@@ -40,16 +39,16 @@ Retorno:
 ```json
 [
   {
-  "id": 1,
-  "cnpj": "60.701.190/0001-04",
+	"id": 1,
+  	"cnpj": "60.701.190/0001-04",
 	"email": "empresa1@email.com",
 	"endereço": "Rua ABCS, 1",
 	"nome": "Empresa A"
   },
   
   {
-  "id": 2,
-  "cnpj": "60.746.948/0001-12",
+	"id": 2,
+	"cnpj": "60.746.948/0001-12",
 	"email": "empresa2@email.com",
 	"endereço": "Rua EFG, 2",
 	"nome": "Empresa B"
@@ -68,8 +67,8 @@ Retorno:
 ```json
 [
   {
-  "id": 1,
-  "cnpj": "60.701.190/0001-04",
+  	"id": 1,
+  	"cnpj": "60.701.190/0001-04",
 	"email": "empresa1@email.com",
 	"endereço": "Rua ABCS, 1",
 	"nome": "Empresa A"
@@ -90,7 +89,7 @@ Request body:
 ```json
 [
   {
-  "cnpj": "60.701.190/0001-04",
+  	"cnpj": "60.701.190/0001-04",
 	"email": "empresa1@email.com",
 	"endereço": "Rua ABCS, 1",
 	"nome": "Empresa A"
@@ -102,8 +101,8 @@ Retorno:
 ```json
 [
   {
-  "id": 1,
-  "cnpj": "60.701.190/0001-04",
+  	"id": 1,
+	"cnpj": "60.701.190/0001-04",
 	"email": "empresa1@email.com",
 	"endereço": "Rua ABCS, 1",
 	"nome": "Empresa A"
@@ -123,8 +122,8 @@ Request Body:
 ```json
 [
   {
-  "id": 1,
-  "cnpj": "60.701.190/0001-04",
+  	"id": 1,
+  	"cnpj": "60.701.190/0001-04",
 	"email": "empresa1@email.com",
 	"endereço": "Rua ABC, 1",
 	"nome": "Empresa A"
@@ -137,8 +136,8 @@ Retorno:
 ```json
 [
   {
-  "id": 1,
-  "cnpj": "60.701.190/0001-04",
+  	"id": 1,
+  	"cnpj": "60.701.190/0001-04",
 	"email": "empresa1@email.com",
 	"endereço": "Rua ABC, 1",
 	"nome": "Empresa A"
