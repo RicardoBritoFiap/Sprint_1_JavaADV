@@ -16,8 +16,8 @@ O restante será reservado para apresentar nas Sprints seguntes do Challenge.
 ## [🎬Link do vídeo](https://youtu.be/VYRM56kuzSs) ##
 
 ## 📊Diagrama de Classe/Modelo Lógico 
-<img src="./markdown/diagrama de classes.png">
-<img src="./markdown/diagrama modelo logico.png">
+<img src="./diagramas/diagrama de classes.png">
+<img src="./diagramas/diagrama modelo logico.png">
 
 ## 📋Endpoints da API ##
 
