@@ -16,6 +16,7 @@ Esse repositório
 
 ## 📊Diagrama de Classe/Modelo Lógico 
 <img src="./markdown/diagrama de classes.png">
+
 <img src="./markdown/diagrama modelo logico.png">
 
 ## 📋Endpoints da API ##
@@ -36,7 +37,7 @@ Empresa/{id}	|DELETE|	Apaga uma empresa
 GET 'Empresa'
 
 Retorno:
-''' json
+```json
 [
   {
   "id": 1,
@@ -54,7 +55,7 @@ Retorno:
 	"nome": "Empresa B"
   }
 ]
-
+```
 
 Status code	|Mensagem
 |--|--|
@@ -64,7 +65,7 @@ Status code	|Mensagem
 GET 'Empresa/1'
 
 Retorno:
-''' json
+```json
 [
   {
   "id": 1,
@@ -75,6 +76,7 @@ Retorno:
   }
   
 ]
+```
 
 Status code|	Mensagem
 |--|--|
@@ -85,7 +87,7 @@ Status code|	Mensagem
 POST 'Empresa'
 
 Request body:
-''' json
+```json
 [
   {
   "cnpj": "60.701.190/0001-04",
@@ -95,9 +97,9 @@ Request body:
   }
   
 ]
-
+```
 Retorno:
-''' json
+```json
 [
   {
   "id": 1,
@@ -108,6 +110,7 @@ Retorno:
   }
   
 ]
+```
 
 Status code	|Mensagem
 |--|--|
@@ -117,7 +120,7 @@ Status code	|Mensagem
 PUT 'Empresa/1'
 
 Request Body:
-''' json
+```json
 [
   {
   "id": 1,
@@ -128,9 +131,10 @@ Request Body:
   }
   
 ]
+```
 
 Retorno:
-''' json
+```json
 [
   {
   "id": 1,
@@ -141,6 +145,7 @@ Retorno:
   }
   
 ]
+```
 
 ### Apagar empresa ###
 DELETE 'Empresa/2'
