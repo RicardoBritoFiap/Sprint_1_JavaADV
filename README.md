@@ -33,7 +33,7 @@ Empresa/{id}	|DELETE|	Apaga uma empresa
 ## Exemplos ##
 ### Obter todas as empresas ###
 
-GET 'Empresa'
+GET `Empresa`
 
 Retorno:
 ```json
@@ -61,7 +61,7 @@ Status code	|Mensagem
 200	|Dados retornados com sucesso
 
 ### Obter empresas por ID ###
-GET 'Empresa/1'
+GET `Empresa/1`
 
 Retorno:
 ```json
@@ -83,7 +83,7 @@ Status code|	Mensagem
 404	|Empresa não encontrado
 
 ### Criar Empresa ###
-POST 'Empresa'
+POST `Empresa`
 
 Request body:
 ```json
@@ -116,7 +116,7 @@ Status code	|Mensagem
 200|	Cliente cadastrado com sucesso
 
 ### Atualizar empresa ###
-PUT 'Empresa/1'
+PUT `Empresa/1`
 
 Request Body:
 ```json
@@ -147,7 +147,7 @@ Retorno:
 ```
 
 ### Apagar empresa ###
-DELETE 'Empresa/2'
+DELETE `Empresa/2`
 
 Status code	|Mensagem
 |--|--|
