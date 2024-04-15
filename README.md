@@ -29,7 +29,7 @@ Empresa	|POST|	Cria uma nova empresa
 Empresa/{id}|	PUT	|Atualiza os dados de uma empresa
 Empresa/{id}	|DELETE|	Apaga uma empresa
 
-### [📥Requisições](Requisições.jason) ###
+### [📥Requisições](Requisições.json) ###
 
 ## Exemplos ##
 ### Obter todas as empresas ###
