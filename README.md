@@ -13,7 +13,7 @@ O restante será reservado para apresentar nas Sprints seguntes do Challenge.
 
 - RM98370 - Ricardo Brito Ponticelli Prieto
 
-## [🎬Link do vídeo]() ##
+## [🎬Link do vídeo](https://youtu.be/VYRM56kuzSs) ##
 
 ## 📊Diagrama de Classe/Modelo Lógico 
 <img src="./markdown/diagrama de classes.png">
