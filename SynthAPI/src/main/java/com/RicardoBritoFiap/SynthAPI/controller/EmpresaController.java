@@ -1,9 +1,7 @@
 package com.RicardoBritoFiap.SynthAPI.controller;
 
 import java.util.List;
-
 import static org.springframework.http.HttpStatus.NOT_FOUND;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -15,10 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
-
 import com.RicardoBritoFiap.SynthAPI.model.Empresa;
 import com.RicardoBritoFiap.SynthAPI.repository.EmpresaRepository;
-
 import jakarta.validation.Valid;
 
 @RestController

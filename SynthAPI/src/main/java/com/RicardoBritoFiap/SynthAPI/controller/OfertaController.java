@@ -2,14 +2,10 @@ package com.RicardoBritoFiap.SynthAPI.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
-
 import com.RicardoBritoFiap.SynthAPI.model.Oferta;
 import com.RicardoBritoFiap.SynthAPI.repository.OfertaRepository;
-
 import jakarta.validation.Valid;
-
 import static org.springframework.http.HttpStatus.NOT_FOUND;
-
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
