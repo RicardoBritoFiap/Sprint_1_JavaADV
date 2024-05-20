@@ -14,13 +14,14 @@ O restante será reservado para apresentar nas Sprints seguintes do Challenge.
 
 - RM98370 - Ricardo Brito Ponticelli Prieto
 
-## [🎬Link do vídeo](https://youtu.be/VYRM56kuzSs) ##
+# [📋Endpoints da API] #
+
+### *Os endpoints e requisições da API podem ser acessadas rodando a API e utilizando o link abaixo* ###
+http://localhost:8080/swagger-ui/index.html#/
+
 
 ## 📊Diagrama de Classe/Modelo Lógico 
 <img src="./diagramas/diagrama de classes.png">
 <img src="./diagramas/diagrama modelo logico.png">
 
-### [📋Endpoints da API] ###
-
-## *Os endpoints e requisições da API podem ser acessadas rodando a API e utilizando o link abaixo* ##
-http://localhost:8080/swagger-ui/index.html#/
+## [🎬Link do vídeo](https://youtu.be/VYRM56kuzSs) ##
