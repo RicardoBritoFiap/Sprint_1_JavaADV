@@ -15,5 +15,8 @@ public class Oferta {
     private Long id;
 
     @NotBlank
+    private String desconto;
+
+    @NotBlank
     private String descoferta;
 }

@@ -15,5 +15,8 @@ public class Venda {
     private Long id;
 
     @NotBlank
+    private String valor;
+
+    @NotBlank
     private String descvenda;
 }
